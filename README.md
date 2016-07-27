@@ -31,9 +31,13 @@
 - [[LIFT](https://github.com/cvlab-epfl/LIFT)][] [*LIFT: Learned Invariant Feature Transform, ECCV2016](http://arxiv.org/pdf/1603.09114v1.pdf), EPFL
 
 ### Evalation
-- [[Detector](http://www.robots.ox.ac.uk/~vgg/research/affine/evaluation.html#eval_soft)] [A comparison of affine region detectors, IJCV 2005](http://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/vibes_ijcv2004.pdf)
-- [[Descriptor](http://www.robots.ox.ac.uk/~vgg/research/affine/desc_evaluation.html#code)] [A performance evaluation of local descriptors, PAMI 2005](http://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/mikolajczyk_pami2004.pdf)
-- [[Binary](http://cs.unc.edu/~jheinly/binary_descriptors.html)] [Comparative Evaluation of Binary Features, ECCV 2012](https://www.cs.unc.edu/~jheinly/publications/eccv2012-heinly.pdf)
-- [[Orientation](https://github.com/cvlab-epfl/benchmark-orientation)] [Learning to Assign Orientations to Feature Points, CVPR2016](https://infoscience.epfl.ch/record/217982/files/top.pdf)
+- [[Detector](http://www.robots.ox.ac.uk/~vgg/research/affine/evaluation.html#eval_soft)][Matlab] [A comparison of affine region detectors, IJCV 2005](http://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/vibes_ijcv2004.pdf), Oxford
+- [[Descriptor](http://www.robots.ox.ac.uk/~vgg/research/affine/desc_evaluation.html#code)][Matlab] [A performance evaluation of local descriptors, PAMI 2005](http://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/mikolajczyk_pami2004.pdf), Oxford
+- [[Binary](http://cs.unc.edu/~jheinly/binary_descriptors.html)] [Comparative Evaluation of Binary Features, ECCV 2012](https://www.cs.unc.edu/~jheinly/publications/eccv2012-heinly.pdf), UNC
+- [[Orientation](https://github.com/cvlab-epfl/benchmark-orientation)] [Learning to Assign Orientations to Feature Points, CVPR2016](https://infoscience.epfl.ch/record/217982/files/top.pdf), EPFL
 
-
+### Evaluation Report
+- [A battle of three descriptors, 2012] (http://computer-vision-talks.com/2012-08-18-a-battle-of-three-descriptors-surf-freak-and-brisk/)
+- [Comparison of the OpenCV’s feature detection algorithms, 2011] (http://computer-vision-talks.com/2011-01-04-comparison-of-the-opencv-feature-detection-algorithms/)
+- [Comparison of the OpenCV’s feature detection algorithms – II, 2011] (http://computer-vision-talks.com/2011-07-13-comparison-of-the-opencv-feature-detection-algorithms/)
+- [Comparison of feature descriptors, 2011] (http://computer-vision-talks.com/2011-01-28-comparison-of-feature-descriptors/)
