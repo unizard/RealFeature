@@ -2,15 +2,15 @@
 ## History
 
 ### Conventional Feature
-- SIFT
-- SURF
-- DAISY
+- [[SIFT](http://docs.opencv.org/3.1.0/da/df5/tutorial_py_sift_intro.html#gsc.tab=0)][OpenCV][Vlfeat] [Object recognition from local scale-invariant features, ICCV 1999](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf) 
+- [[SURF](http://docs.opencv.org/3.1.0/df/dd2/tutorial_py_surf_intro.html#gsc.tab=0)][OpenCV] [Speeded up robust features, ECCV 2006](http://www.vision.ee.ethz.ch/en/publications/papers/articles/eth_biwi_00517.pdf)
+- [[DAISY](http://cvlab.epfl.ch/software/daisy)] [DAISY: An Efficient Dense Descriptor Applied to Wide Baseline Stereo, PAMI 2010](https://infoscience.epfl.ch/record/138785/files/tola_daisy_pami_1.pdf)
 
 ### Binary Feature
-- BRIEF
-- ORG
-- BRISK
-- FREAK
+- [[BRIEF] (http://docs.opencv.org/3.1.0/dc/d7d/tutorial_py_brief.html#gsc.tab=0)][OpenCV] [BRIEF: Binary Robust Independent Elementary Features, PAMI2012](https://infoscience.epfl.ch/record/167678/files/top.pdf)
+- [[ORB] (http://docs.opencv.org/3.1.0/d1/d89/tutorial_py_orb.html#gsc.tab=0)][OpenCV] [ORB: An efficient alternative to SIFT or SURF, ICCV 2011](http://www.willowgarage.com/sites/default/files/orb_final.pdf)
+- [[BRISK](http://docs.opencv.org/2.4/modules/features2d/doc/feature_detection_and_description.html#brisk)][OpenCV] [BRISK: Binary Robust Invariant Scalable Keypoints, ICCV 2011](https://www.robots.ox.ac.uk/~vgg/rg/papers/brisk.pdf)
+- [[FREAK](http://docs.opencv.org/2.4/modules/features2d/doc/feature_detection_and_description.html)][OpenCV] [FREAK: Fast Retina Keypoint, CVPR 2012](https://infoscience.epfl.ch/record/175537/files/2069.pdf)
 - [[AKAZE](https://github.com/pablofdezalc/akaze)][OpenCV] [Fast Explicit Diffusion for Accelerated Features in Nonlinear Scale Spaces, BMVC 2013](http://www.robesafe.com/personal/pablo.alcantarilla/papers/Alcantarilla13bmvc.pdf)
 
 ### Intensity based
