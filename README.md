@@ -25,8 +25,8 @@
 
 ### Neural Network based
 - [[DeepCompare](http://imagine.enpc.fr/~zagoruys/deepcompare.html)][Torch] [Learning to Compare Image Patches via Convolutional Neural Networks, CVPR 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf)
-- [[DeepDesc](http://cvlab.epfl.ch/research/detect/deepdescriptorlearning)][Torch] [Discriminative Learning of Deep Convolutional Feature Point Descriptors, ICCV 2015](https://infoscience.epfl.ch/record/213228/files/iccv-2015-deepdesc.pdf), EPFL 
 - [[MatchNet](https://github.com/hanxf/matchnet)][Pycaffe] [MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching, CVPR2015](http://www.cs.unc.edu/~xufeng/cs/papers/cvpr15-matchnet.pdf), Google
+- [[DeepDesc](http://cvlab.epfl.ch/research/detect/deepdescriptorlearning)][Torch] [Discriminative Learning of Deep Convolutional Feature Point Descriptors, ICCV 2015](https://infoscience.epfl.ch/record/213228/files/iccv-2015-deepdesc.pdf), EPFL 
 - [[PN-Net](https://github.com/vbalnt/pnnet)][Torch] [PN-Net: Conjoined Triple Deep Network for Learning Local Image Descriptors, Arxiv 2016](http://arxiv.org/pdf/1601.05030v1.pdf), Imperial
 - [[LIFT](https://github.com/cvlab-epfl/LIFT)][] [*LIFT: Learned Invariant Feature Transform, ECCV2016](http://arxiv.org/pdf/1603.09114v1.pdf), EPFL
 
