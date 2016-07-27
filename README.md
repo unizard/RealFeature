@@ -41,3 +41,7 @@
 - [Comparison of the OpenCV’s feature detection algorithms, 2011] (http://computer-vision-talks.com/2011-01-04-comparison-of-the-opencv-feature-detection-algorithms/)
 - [Comparison of the OpenCV’s feature detection algorithms – II, 2011] (http://computer-vision-talks.com/2011-07-13-comparison-of-the-opencv-feature-detection-algorithms/)
 - [Comparison of feature descriptors, 2011] (http://computer-vision-talks.com/2011-01-28-comparison-of-feature-descriptors/)
+
+
+### Book
+- [Local Image Descriptor: Modern Approaches, 2015](http://www.springer.com/gb/book/9783662491713)
