@@ -2,7 +2,7 @@
 ## History
 
 ### Conventional Feature
-- [[SIFT](http://docs.opencv.org/3.1.0/da/df5/tutorial_py_sift_intro.html#gsc.tab=0)][OpenCV][Vlfeat] [Object recognition from local scale-invariant features, ICCV 1999](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf) 
+- [[SIFT](http://docs.opencv.org/3.1.0/da/df5/tutorial_py_sift_intro.html#gsc.tab=0)][OpenCV][Vlfeat] [Object recognition from local scale-invariant features, ICCV 1999](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf), Lowe 
 - [[SURF](http://docs.opencv.org/3.1.0/df/dd2/tutorial_py_surf_intro.html#gsc.tab=0)][OpenCV] [Speeded up robust features, ECCV 2006](http://www.vision.ee.ethz.ch/en/publications/papers/articles/eth_biwi_00517.pdf), ETH
 - [[DAISY](http://cvlab.epfl.ch/software/daisy)] [DAISY: An Efficient Dense Descriptor Applied to Wide Baseline Stereo, PAMI 2010](https://infoscience.epfl.ch/record/138785/files/tola_daisy_pami_1.pdf), EPFL
 
