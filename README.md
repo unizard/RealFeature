@@ -44,6 +44,6 @@
 
 
 ### Book
-- [Local Image Descriptor: Modern Approaches, 2015](http://www.springer.com/gb/book/9783662491713)
-- [Local Invariant Feature Detectors: A Survey, 2008](http://www.eng.auburn.edu/~troppel/courses/7970%202015A%20AdvMobRob%20sp15/literature/%5B2008%5D%20Local%20Invariant%20Feature%20Detectors-%20A%20Survey.pdf)
+- [Local Image Descriptor: Modern Approaches, 2015](http://www.springer.com/gb/book/9783662491713), Bin Fan
+- [Local Invariant Feature Detectors: A Survey, 2008](http://www.eng.auburn.edu/~troppel/courses/7970%202015A%20AdvMobRob%20sp15/literature/%5B2008%5D%20Local%20Invariant%20Feature%20Detectors-%20A%20Survey.pdf), Krystian Mikolajczyk
 
