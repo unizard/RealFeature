@@ -51,6 +51,6 @@
 
 
 
-### Web Posting
+### Tutorial
 - [[Tutorial on Binary Descriptors](https://gilscvblog.com/2013/08/26/tutorial-on-binary-descriptors-part-1/)] [BRIEF](https://gilscvblog.com/2013/09/19/a-tutorial-on-binary-descriptors-part-2-the-brief-descriptor/), [ORB](https://gilscvblog.com/2013/10/04/a-tutorial-on-binary-descriptors-part-3-the-orb-descriptor/), [BRISK](https://gilscvblog.com/2013/11/08/a-tutorial-on-binary-descriptors-part-4-the-brisk-descriptor/), [FREAK](https://gilscvblog.com/2013/12/09/a-tutorial-on-binary-descriptors-part-5-the-freak-descriptor/), 2013
 
