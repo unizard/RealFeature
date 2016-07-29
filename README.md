@@ -49,3 +49,8 @@
 - [Local Image Descriptor: Modern Approaches, 2015](http://www.springer.com/gb/book/9783662491713), Bin Fan
 - [Local Invariant Feature Detectors: A Survey, 2008](http://www.eng.auburn.edu/~troppel/courses/7970%202015A%20AdvMobRob%20sp15/literature/%5B2008%5D%20Local%20Invariant%20Feature%20Detectors-%20A%20Survey.pdf), Krystian Mikolajczyk
 
+
+
+### Tutorial
+- [[Tutorial on Binary Descriptors](https://gilscvblog.com/2013/08/26/tutorial-on-binary-descriptors-part-1/)] [BRIEF](https://gilscvblog.com/2013/09/19/a-tutorial-on-binary-descriptors-part-2-the-brief-descriptor/), [ORB](https://gilscvblog.com/2013/10/04/a-tutorial-on-binary-descriptors-part-3-the-orb-descriptor/), [BRISK](https://gilscvblog.com/2013/11/08/a-tutorial-on-binary-descriptors-part-4-the-brisk-descriptor/), [FREAK](https://gilscvblog.com/2013/12/09/a-tutorial-on-binary-descriptors-part-5-the-freak-descriptor/), 2013
+
