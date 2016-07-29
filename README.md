@@ -7,7 +7,7 @@
 - [[DAISY](http://cvlab.epfl.ch/software/daisy)] [DAISY: An Efficient Dense Descriptor Applied to Wide Baseline Stereo, PAMI 2010](https://infoscience.epfl.ch/record/138785/files/tola_daisy_pami_1.pdf), EPFL
 
 ### Binary Feature
-- [[BRIEF] (http://docs.opencv.org/3.1.0/dc/d7d/tutorial_py_brief.html#gsc.tab=0)][OpenCV] [BRIEF: Binary Robust Independent Elementary Features, PAMI2012](https://infoscience.epfl.ch/record/167678/files/top.pdf), EPFL
+- [[BRIEF] (http://docs.opencv.org/3.1.0/dc/d7d/tutorial_py_brief.html#gsc.tab=0)][OpenCV] [BRIEF: Binary Robust Independent Elementary Features, PAMI2012](https://infoscience.epfl.ch/record/167678/files/top.pdf), [ECCV2010](https://www.robots.ox.ac.uk/~vgg/rg/papers/CalonderLSF10.pdf), EPFL
 - [[ORB] (http://docs.opencv.org/3.1.0/d1/d89/tutorial_py_orb.html#gsc.tab=0)][OpenCV] [ORB: An efficient alternative to SIFT or SURF, ICCV 2011](http://www.willowgarage.com/sites/default/files/orb_final.pdf), Willowgarage
 - [[BRISK](http://docs.opencv.org/2.4/modules/features2d/doc/feature_detection_and_description.html#brisk)][OpenCV] [BRISK: Binary Robust Invariant Scalable Keypoints, ICCV 2011](https://www.robots.ox.ac.uk/~vgg/rg/papers/brisk.pdf), Oxford 
 - [[FREAK](http://docs.opencv.org/2.4/modules/features2d/doc/feature_detection_and_description.html)][OpenCV] [FREAK: Fast Retina Keypoint, CVPR 2012](https://infoscience.epfl.ch/record/175537/files/2069.pdf), EPFL
