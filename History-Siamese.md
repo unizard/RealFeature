@@ -8,8 +8,9 @@
 
 ### Application
 
-- [[MC-CNN](https://github.com/jzbontar/mc-cnn)] [Torch] [Stereo matching by training a convolutional neural network to compare image patches](http://arxiv.org/pdf/1510.05970v2.pdf), JMLR 2016.
-- [[MC-CNN](https://github.com/jzbontar/mc-cnn)] [Torch] [Computing the Stereo Matching Cost with a Convolutional Neural Network](http://arxiv.org/pdf/1510.05970v2.pdf), CVPR 2015.
+- [Face Verification] [Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf), CVPR 2005
+- [Stereo][[MC-CNN](https://github.com/jzbontar/mc-cnn)] [Torch] [Stereo matching by training a convolutional neural network to compare image patches](http://arxiv.org/pdf/1510.05970v2.pdf), JMLR 2016
+- [Stereo][[MC-CNN](https://github.com/jzbontar/mc-cnn)] [Torch] [Computing the Stereo Matching Cost with a Convolutional Neural Network](http://arxiv.org/pdf/1510.05970v2.pdf), CVPR 2015
 
 
 
