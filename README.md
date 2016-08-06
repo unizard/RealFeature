@@ -1,5 +1,5 @@
 
-## AI-Robotics Summer School Materials 
+## [AI-Robotics Summer School Materials](http://www.kros.org/summerschool2016/02web01.php)
 - [Material] [LocalFeatures](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-Features.pdf) : From handcraft to deep learning
 - [Supp #1] [Binary Features](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-BinaryFeatures.pdf) : BRIEF, ORB, BRISK, FREAK, BIO
 - [Supp #2] [Deep Features](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-DeepFeatures.pdf) : DeepCompare, MatchNet, DeepDesc, PN-Net
