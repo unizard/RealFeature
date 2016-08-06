@@ -4,6 +4,7 @@
 - [Supp #1] [Binary Features](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-BinaryFeatures.pdf) : BRIEF, ORB, BRISK, FREAK, BIO
 - [Supp #2] [Deep Features](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-DeepFeatures.pdf) : DeepCompare, MatchNet, DeepDesc, PN-Net
 
+- Any questions? ykchoi@rcv.kaist.ac.kr / unizard@gmail.com
 
 ## [Feature's History](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/History.png)
 
