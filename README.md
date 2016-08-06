@@ -1,5 +1,12 @@
 
-## History
+## AI-Robotics Summer School Materials 
+### Local Features
+- [Material] [LocalFeatures](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-Features.pdf) : From handcraft to deep learning
+- [Supp #1] [Binary Features](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-BinaryFeatures.pdf) : BRIEF, ORB, BRISK, FREAK, BIO
+- [Supp #2] [Deep Features](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-DeepFeatures.pdf) : DeepCompare, MatchNet, DeepDesc, PN-Net
+
+
+## Feature's History
 
 ### Conventional Feature
 - [[SIFT](http://docs.opencv.org/3.1.0/da/df5/tutorial_py_sift_intro.html#gsc.tab=0)][OpenCV][Vlfeat] [Object recognition from local scale-invariant features, ICCV 1999](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf), Lowe 
