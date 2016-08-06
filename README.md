@@ -6,9 +6,7 @@
 
 
 
-## Feature's History
-
-![test](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/History.png)
+## [Feature's History](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/History.png)
 
 ### Conventional Feature
 - [[SIFT](http://docs.opencv.org/3.1.0/da/df5/tutorial_py_sift_intro.html#gsc.tab=0)][OpenCV][Vlfeat] [Object recognition from local scale-invariant features, ICCV 1999](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf), Lowe 
