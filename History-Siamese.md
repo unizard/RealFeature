@@ -11,12 +11,12 @@
 - [Face Verification] [Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf), CVPR 2005
 - [Stereo][[MC-CNN](https://github.com/jzbontar/mc-cnn)] [Torch] [Stereo matching by training a convolutional neural network to compare image patches](http://arxiv.org/pdf/1510.05970v2.pdf), JMLR 2016
 - [Stereo][[MC-CNN](https://github.com/jzbontar/mc-cnn)] [Torch] [Computing the Stereo Matching Cost with a Convolutional Neural Network](http://arxiv.org/pdf/1510.05970v2.pdf), CVPR 2015
-
+- [[DeepDesc](http://cvlab.epfl.ch/research/detect/deepdescriptorlearning)][Torch] [Discriminative Learning of Deep Convolutional Feature Point Descriptors](https://infoscience.epfl.ch/record/213228/files/iccv-2015-deepdesc.pdf), ICCV 2015
 
 
 
 ### Tutorial & Practice
-- [Siamese Network：Architecture and Applications in Computer Vision] (http://vision.ia.ac.cn/zh/senimar/reports/Siamese-Network-Architecture-and-Applications-in-Computer-Vision.pdf)
+- [Siamese Network：Architecture and Applications in Computer Vision] (http://vision.ia.ac.cn/zh/senimar/reports/Siamese-Network-Architecture-and-Applications-in-Computer-Vision.pdf) 
 - [Siamese Network Training with Caffe](http://caffe.berkeleyvision.org/gathered/examples/siamese.html)
 
 
