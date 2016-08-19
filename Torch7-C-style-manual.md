@@ -1,5 +1,5 @@
 
-## Do it your self Torch7 - version Basic
+## Do it your self Torch7 - Basic
 
 ### Variables
 
@@ -23,6 +23,9 @@
 
 ### Class
 
+
+
+## Do it your self Torch7 - Advanced
 
 ### Non-linearity
 - [ReLU]
