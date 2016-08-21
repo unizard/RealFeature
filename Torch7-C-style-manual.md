@@ -7,6 +7,14 @@
 
 ### Operators
 
+- Tensor Resize
+  
+  inputs:resize(input:size())
+
+- Tensor Resize & Copy
+  
+  inputs:resize(input:size()):copy(input)
+
 ### Functions
 
 ### Standard library
@@ -22,6 +30,14 @@
 ### Structure
 
 ### Class
+
+
+### 
+nn.Sequential
+model:get(1)
+model:get(1):get(1)
+model:get(1):get(1):get(1)
+
 
 
 
@@ -42,6 +58,10 @@
 
 - [RReLU]
 - 
+
+
+
+
 
 
 
