@@ -7,3 +7,4 @@
   - [[Tutorial & Demo](https://github.com/torch/torch7/wiki/Cheatsheet#tutorials-demos-by-category)] Look at the tutorial
   - [[Lecture](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)] Oxford Computer Science - Machine Learning 2015, [Practicals](https://github.com/oxford-cs-ml-2015)
 
+- [[Torch with CaffeModel](http://gromit2.blogspot.kr/2016/07/neural-style-install-torch7-loadcaffe.html)] Torch with VGG19 
