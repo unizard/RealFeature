@@ -8,6 +8,7 @@
   - [[Lecture](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)] Oxford Computer Science - Machine Learning 2015, [Practicals](https://github.com/oxford-cs-ml-2015)
 
 - [[Torch with CaffeModel](http://gromit2.blogspot.kr/2016/07/neural-style-install-torch7-loadcaffe.html)] Torch with VGG19 
+- [Luajit](http://luajit.org/luajit.html) Torch7 use Luajit which is a Just-In-Time Compilter for the Lua programming language.
 - [Lua 5.1 Manual](http://www.lua.org/manual/5.1/manual.html#2.2) [[pdf](http://multispectral.kaist.ac.kr/ykchoi/LuaManual.pdf)]
 - [Lua Sample Codes](http://lua-users.org/wiki/SampleCode)
 - [Torch site](http://torch.ch/docs/five-simple-examples.html)
