@@ -10,7 +10,7 @@
 - [[Torch with CaffeModel](http://gromit2.blogspot.kr/2016/07/neural-style-install-torch7-loadcaffe.html)] Torch with VGG19 
 - [Lua 5.1 Manual](http://www.lua.org/manual/5.1/manual.html#2.2) [[pdf](http://multispectral.kaist.ac.kr/ykchoi/LuaManual.pdf)]
 - [Lua Sample Codes](http://lua-users.org/wiki/SampleCode)
-
+- [Torch site](http://torch.ch/docs/five-simple-examples.html)
 
 ### Community
 - [[Lua UserGroup](http://www.lua.org/community.html)]
