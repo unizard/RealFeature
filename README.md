@@ -1,8 +1,8 @@
 
 ## [AI-Robotics Summer School Materials](http://www.kros.org/summerschool2016/02web01.php)
-- [Material] [LocalFeatures](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-Features.pdf) : From handcraft to deep learning
-- [Supp #1] [Binary Features](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-BinaryFeatures.pdf) : BRIEF, ORB, BRISK, FREAK, BIO
-- [Supp #2] [Deep Features](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/RSS2016-DeepFeatures.pdf) : DeepCompare, MatchNet, DeepDesc, PN-Net
+- [Material] [LocalFeatures](http://143.248.39.69/ykchoi/RSS2016/RSS2016-Features.pdf) : From handcraft to deep learning
+- [Supp #1] [Binary Features](http://143.248.39.69/ykchoi/RSS2016/RSS2016-BinaryFeatures.pdf) : BRIEF, ORB, BRISK, FREAK, BIO
+- [Supp #2] [Deep Features](http://143.248.39.69/ykchoi/RSS2016/RSS2016-DeepFeatures.pdf) : DeepCompare, MatchNet, DeepDesc, PN-Net
 - Any questions? Email me or write issues. ykchoi@rcv.kaist.ac.kr / unizard@gmail.com
 
 ## [Feature's History](http://multispectral.kaist.ac.kr/ykchoi/RSS2016/History.png)
